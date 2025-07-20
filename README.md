@@ -1,4 +1,4 @@
-# Website Safety Checker (Frontend JS)
+# Website Safety Checker
 
 This is a pure frontend (client-side) JavaScript web app that lets you check if a website is reachable and returns a basic safety status.
 
